@@ -72,6 +72,13 @@ The project demonstrates:
 - Centralized multi-bay monitoring
 - Overload condition detection
 
+## 🚀 Live Dashboard
+
+Monitor the EV charging station parameters through the ThingsBoard dashboard.
+
+**ThingsBoard Dashboard:** [View Live Dashboard](https://thingsboard.cloud/dashboards/all/8da139d0-b299-11f1-973e-db7ef6e48014)
+
+
 ## 🚀 Future Scope
 
 - Advanced Edge AI prediction models
