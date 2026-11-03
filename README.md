@@ -37,6 +37,10 @@ The **Edge AI Based Smart EV Charging Station Optimizer** is designed to monitor
 
 Sensors and Inputs → ESP32 Controller → Edge Data Processing → Overload Detection and Load Decision → MQTT Communication → ThingsBoard Dashboard and Alarms
 
+## Circuit Connection
+
+<img width="781" height="395" alt="image (4)" src="https://github.com/user-attachments/assets/b986df08-f67a-4f79-a54b-3ae298d59543" />
+
 ## 🔄 Working Flow
 
 1. Sensors provide charging parameter data.
@@ -72,7 +76,30 @@ The project demonstrates:
 - Centralized multi-bay monitoring
 - Overload condition detection
 
-## 🚀 Live Dashboard
+### Bay 1 Monitoring Dashboard
+
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/b3668c85-9138-4dba-aebf-940498540d69" />
+
+
+### Bay 2 Monitoring Dashboard
+
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/b3668c85-9138-4dba-aebf-940498540d69" />
+<img width="1916" height="927" alt="image" src="https://github.com/user-attachments/assets/b494fc07-7f9c-4ef6-91ad-11e40e7bc83c" />
+
+
+### Bay 3 Monitoring Dashboard
+
+<img width="1852" height="918" alt="image" src="https://github.com/user-attachments/assets/e389b58d-f852-4d1b-b3ce-4cc12082992a" />
+
+
+
+### Alarm Monitoring
+
+<img width="1791" height="922" alt="image" src="https://github.com/user-attachments/assets/57af094f-9090-4d8a-acf4-b03339c3bd18" />
+
+
+
+### 🚀 Live Dashboard
 
 Monitor the EV charging station parameters through the ThingsBoard dashboard.
 
