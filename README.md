@@ -78,28 +78,25 @@ The project demonstrates:
 
 ### Bay 1 Monitoring Dashboard
 
-<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/b3668c85-9138-4dba-aebf-940498540d69" />
+<img width="1582" height="693" alt="image (5)" src="https://github.com/user-attachments/assets/8c91f0fc-0302-480e-b675-9d445f3dd247" />
 
+<img width="1568" height="903" alt="image (6)" src="https://github.com/user-attachments/assets/898f6d1c-a49f-4db5-b7a2-f6624fd86c01" />
 
 ### Bay 2 Monitoring Dashboard
 
 <img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/b3668c85-9138-4dba-aebf-940498540d69" />
-<img width="1916" height="927" alt="image" src="https://github.com/user-attachments/assets/b494fc07-7f9c-4ef6-91ad-11e40e7bc83c" />
-
 
 ### Bay 3 Monitoring Dashboard
 
 <img width="1852" height="918" alt="image" src="https://github.com/user-attachments/assets/e389b58d-f852-4d1b-b3ce-4cc12082992a" />
 
-
-
 ### Alarm Monitoring
 
 <img width="1791" height="922" alt="image" src="https://github.com/user-attachments/assets/57af094f-9090-4d8a-acf4-b03339c3bd18" />
 
-
-
 ### 🚀 Live Dashboard
+
+<img width="1582" height="693" alt="image (5)" src="https://github.com/user-attachments/assets/e5500a5b-0864-4579-8b51-c068e938d59a" />
 
 Monitor the EV charging station parameters through the ThingsBoard dashboard.
 
